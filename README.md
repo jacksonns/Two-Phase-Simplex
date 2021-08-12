@@ -1,5 +1,5 @@
 # Two Phase Simplex
-Implementação básica do Simplex de duas fases.
+Implementação básica do Simplex de duas fases para programações do tipo Ax ≤ b e x ≥ 0
 
 ### Entrada
 n m  
